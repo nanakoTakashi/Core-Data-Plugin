@@ -5,7 +5,7 @@ Language: Ar - عربي
 
 النظام الاساسي للبلوقن هو:
 
-PocketMine-MP (PMMP) PM4
+<a href"https://github.com/pmmp/PocketMine-MP">PocketMine-MP</a> (PMMP) PM4
 
 Minecraft Bedrock (PE) 1.19.0
 
@@ -15,14 +15,14 @@ PluginNice (اسم قابل للتغيير)
 
 لغه البرمجه الاساسيه:
 
-PHP php-version=>8.0
+<a href="https://www.php.net/">PHP</a> php-version=>8.0
 
 YML yml(تستخدم لأشياء مثل التعريف والـ congiv)
 
 
 Telegram channel : <a href="https://t.me/maincode2022">LINK</a>
 
-Telegram Dev user : @nnko
+Telegram Dev user : <a href="https://t.me/nnk0o">Toshiro</a>
 
 Discord user : nnko#1498
 

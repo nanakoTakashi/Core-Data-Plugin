@@ -5,7 +5,7 @@ Language: Ar - عربي
 
 النظام الاساسي للبلوقن هو:
 
-<a href"https://github.com/pmmp/PocketMine-MP">PocketMine-MP</a> (PMMP) PM4
+ <a href"https://github.com/pmmp/PocketMine-MP">PocketMine-MP 4</a>  
 
 Minecraft Bedrock (PE) 1.19.0
 

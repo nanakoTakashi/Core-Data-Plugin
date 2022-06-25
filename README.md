@@ -1,4 +1,4 @@
-# pmmp-plugin0.5a
+# Nice Plugin 
 Language: Ar - عربي
 
 هو بلوقن بسيط اكتب به كل شيء اتعلمه

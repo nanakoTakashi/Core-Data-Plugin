@@ -1,0 +1,16 @@
+name: PluginNice
+main: Toshiro0\PluginNice\Main
+version: 1.0a
+api: [4.0.0]
+author: Toshiro0
+description: Example plugin showing the new API
+
+commands:
+    main:
+        description: Example command
+        usage: "/main"
+        permission: PluginNice.command.example
+permissions:
+  PluginNice.command.example:
+    description: "Allows the user to run the example command"
+    default: true

@@ -20,7 +20,7 @@ PHP php-version=>8.0
 YML yml(تستخدم لأشياء مثل التعريف والـ congiv)
 
 
-Telegram channel : @maincode2022
+Telegram channel : <a href="https://t.me/maincode2022">LINK</a>
 
 Telegram Dev user : @nnko
 
